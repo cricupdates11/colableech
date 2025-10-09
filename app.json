@@ -1,5 +1,5 @@
 {
-    "name": "TXT-Leech-Bot",
+    "name": "𝕊𝕥𝕦𝕕𝕪𝕍𝕖𝕣𝕤𝕖 - 𝕋𝕩𝕥 𝔹𝕠𝕥".
     "description": "Telegram bot to download videos from text files",
     "keywords": [
         "telegram",
@@ -7,18 +7,18 @@
         "video",
         "downloader"
     ],
-    "repository": "https://github.com/20255-ee-085/TXT-LEECH-BOT",
+    "repository": "https://telegram.me/Aurora_xtreme",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token from @BotFather",
+            "description": "8408101486:AAHWZLpz1AuPWD-IKbg5Nq1_HPGrXKRDQUc",
             "required": true
         },
         "API_ID": {
-            "description": "Your API_ID from my.telegram.org",
+            "description": "22657422",
             "required": true
         },
         "API_HASH": {
-            "description": "Your API_HASH from my.telegram.org",
+            "description": "354881b0718d6f5439d8a523019ffd2e",
             "required": true
         }
     },
